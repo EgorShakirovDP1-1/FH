@@ -1,5 +1,5 @@
 # Film Hunter (Beta)
-
+Film Hunter is a new experience in online film watching industry. With that being said, Film Hunter offers you a large catalogue of movies, as much as you have ever wished.
 
   
 
@@ -7,7 +7,7 @@
 
   
 
-- Vue 3
+- GitHub
 
 - Bootstrap 5 (Bootswatch)
 
@@ -15,7 +15,7 @@
 
 - Inertia
 
-- GitHub
+- Vue 3
 
   
 
@@ -33,12 +33,6 @@
 
 ### Prerequisites
 
-  
-
-Before getting started, make sure you have the following installed on your system:
-
-  
-
 - [PHP](https://www.php.net/) (>= 8.0)
 
 - [Composer](https://getcomposer.org/)
@@ -51,27 +45,23 @@ Before getting started, make sure you have the following installed on your syste
 
 ### Steps to Setup
 
-  
+
 
 1.  **Clone the repository:**
 
   
+  ```bash
+  git clone https://github.com/EgorShakirovDP1-1/FH.git
+  ```
 
-```bash
-
-
-
-```
 
   
 
 2.  **Navigate to the project directory:**
 
-  
-
 ```bash
 
-
+cd FH
 
 ```
 
@@ -161,7 +151,7 @@ php artisan storage:link
 
   
 
-10.  **Start the development server:**
+9.  **Start the development server:**
 
   
 
@@ -189,7 +179,7 @@ Your application will be available at `http://localhost:8000`.
 
   
 
-12.  **Visit the application in your browser:**
+10.  **Visit the application in your browser:**
 
   
 
